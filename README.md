@@ -1,9 +1,4 @@
 hello world 
+my name is santhosh
 
-
-i'm santhosh
-
-
-im a learner
-
-king
+i'm from khammam
